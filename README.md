@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mdisumma&theme=hacker)](https://git.io/streak-stats)
+<p align="center">
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DenverCoder1"/></a>
+</p>
 
 
 I am a dedicated web developer passionate about delivering intuitive experiences and building responsive, dynamic interfaces.
