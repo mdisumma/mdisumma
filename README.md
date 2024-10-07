@@ -1,6 +1,7 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
-
 ## Hi there 👋
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=mdisumma&theme=hacker)](https://git.io/streak-stats)
+
 
 I am a dedicated web developer passionate about delivering intuitive experiences and building responsive, dynamic interfaces.
 As part of my professional development after my degree, I completed the School of Code full-stack Development course and the UX/UI Career accelerator at Experience Hause. Those experiences enhanced my problem-solving and team dynamics skills, providing a solid foundation in user-centred design methodologies and extending my coding skillset. As part of this, I worked within the Agile Kanban and Scrum framework in remote and office-based environments. My transferable skills include leadership, decision-making, team collaboration, and time management in a fast-paced and creative environment.
