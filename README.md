@@ -1,3 +1,5 @@
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+
 ## Hi there 👋
 
 I am a dedicated web developer passionate about delivering intuitive experiences and building responsive, dynamic interfaces.
